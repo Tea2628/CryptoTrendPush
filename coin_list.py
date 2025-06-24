@@ -1,8 +1,1 @@
-# coin_list.py
-coin_symbols = [
-    "BTC-USDT", "ETH-USDT", "SOL-USDT", "BNB-USDT", "XRP-USDT",
-    "DOGE-USDT", "ADA-USDT", "AVAX-USDT", "DOT-USDT", "LTC-USDT",
-    "TRX-USDT", "MATIC-USDT", "LINK-USDT", "UNI-USDT", "ATOM-USDT",
-    "FIL-USDT", "NEAR-USDT", "SUI-USDT", "TIA-USDT", "PEPE-USDT",
-    "SHIB-USDT", "BLUR-USDT", "AR-USDT", "APT-USDT", "OP-USDT"
-]
+coin_symbols = ["BTC-USDT"]
