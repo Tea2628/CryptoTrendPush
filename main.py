@@ -12,3 +12,4 @@ if __name__ == '__main__':
     else:
         print(result)  # 打印分析结果
         send_message(result)  # 推送 Telegram
+        print("最终推送内容：", result)
